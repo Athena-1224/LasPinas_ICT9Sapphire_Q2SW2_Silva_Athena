@@ -1,0 +1,10 @@
+body.ghibli {
+  background-image: url("ghibli.jpg");}
+body.flower {
+  background-image: url("flower.jpg");}
+body.painting {
+  background-image: url("painting.jpg"); background-size: 150%;}
+body.vintage {
+  background-image: url("vintage.jpg"); background-size: 150%;}
+
+.row {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
